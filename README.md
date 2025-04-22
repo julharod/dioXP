@@ -2,24 +2,26 @@
 XP Cloud com IA
 
 Modelos de Infraestrutura
+
 1. On-Premise:
 • Definição: Infraestrutura de TI gerenciada e mantida internamente pela própria
 organização.
 • Vantagens: Controle total sobre os dados e sistemas, personalização completa.
 • Desvantagens: Custos iniciais altos, necessidade de equipe especializada para manutenção.
+
 2. Cloud (Nuvem):
 • Definição: Infraestrutura de TI fornecida e gerenciada por terceiros através da internet.
 • Vantagens: Escalabilidade, custos reduzidos, manutenção e atualizações gerenciadas pelo
 provedor.
 • Desvantagens: Menor controle sobre os dados, dependência do provedor de serviços.
+
 3. Híbrido:
 • Definição: Combinação de infraestrutura on-premise e cloud.
-
 • Vantagens: Flexibilidade, otimização de custos, possibilidade de manter dados sensíveis on-
 premise.
-
 • Desvantagens: Complexidade na gestão, necessidade de integração entre os ambientes.
 Tipos de Nuvem
+
 1. Nuvem Pública:
 • Definição: Serviços de nuvem oferecidos ao público em geral por um provedor externo.
 • Vantagens: Custo-benefício, escalabilidade, manutenção gerenciada pelo provedor.
@@ -40,11 +42,11 @@ Modelos de Serviço
 • Vantagens: Acesso fácil, atualizações automáticas, custo reduzido.
 • Desvantagens: Menor controle sobre o software, dependência do provedor.
 2. PaaS (Platform as a Service):
+
+
 Definição: Plataforma que permite aos desenvolvedores criar, gerenciar e implantar
 XP Cloud com IA
-terça-feira, 22 de abril de 2025 09:16
 
-Página 1 de yo
 
 • Definição: Plataforma que permite aos desenvolvedores criar, gerenciar e implantar
 aplicações.
